@@ -36,8 +36,10 @@ sales-etl-pipeline/
 ├── .gitignore
 └── README.md
 
-**## What I learned**
-*How to design a simple analytical schema for sales reporting.
-*How to build an end-to-end ETL pipeline in Python using Pandas.
-*How to run PostgreSQL in Docker and connect from Python.
-*How to structure and document a data engineering project for GitHub.
+## **What I learned**
+
+- How to design a simple analytical schema for sales reporting.
+- How to build an end-to-end ETL pipeline in Python using Pandas.
+- How to run PostgreSQL in Docker and connect to it from Python.
+- How to structure and document a data engineering project for GitHub.
+
