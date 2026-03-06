@@ -36,7 +36,7 @@ sales-etl-pipeline/
 ├── .gitignore
 └── README.md
 
-## **What I learned**
+## What I learned
 
 - How to design a simple analytical schema for sales reporting.
 - How to build an end-to-end ETL pipeline in Python using Pandas.
